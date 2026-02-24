@@ -1,2 +1,9 @@
 # Automated-Data-Cleaning-Sales-Audit
-Script de Python diseñado para automatizar la limpieza de reportes de ventas desordenados. El sistema detecta errores de formato en fechas, normaliza nombres de productos, limpia símbolos de moneda mediante Regex y elimina registros duplicados o incompletos.
+## 🇺🇸 Overview
+A Python script built to automate the cleaning of messy sales reports. The system fixes date formatting, normalizes product names, cleans currency symbols using Regex, and removes duplicate or incomplete records.
+
+Impact: Converts raw, unusable data into actionable business metrics (ROI, Average Ticket) instantly.
+
+### Tech Stack:
+* Pandas & Numpy*
+* Data Auditing & Quality Control*
